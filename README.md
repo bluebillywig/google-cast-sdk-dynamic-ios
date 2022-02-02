@@ -1,2 +1,4 @@
 # google-cast-sdk-dynamic-ios
-Dynamic Framework Google Cast: hosting for cocoapods bacause google does not offer this 
+
+This repo hosts the dynamic library for Google Cast SDK in Cocoapods which for some unknown reason google haven't done.
+
